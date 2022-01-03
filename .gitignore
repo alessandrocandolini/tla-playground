@@ -1,0 +1,6 @@
+**/*SnapShot*
+**/*.launch
+**/*.out
+.DS_Store
+.project
+.settings
