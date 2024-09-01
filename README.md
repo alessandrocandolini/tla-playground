@@ -8,7 +8,7 @@ Todo
 ## How to run the examples?
 
 The repo provides a simple `shell.nix` file.
-Assuming [https://nixos.org/](nix) is available on the machine, in a shell type 
+Assuming [nix](https://nixos.org/) is available on the machine, in a shell type 
 ```
 nix-shell
 ```
